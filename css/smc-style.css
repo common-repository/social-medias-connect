@@ -1,0 +1,28 @@
+/**社交媒体连接(Social Medias connect)
+ * style.css 2012/06/09
+ * qiqiboy http://www.qiqiboy.com
+ */
+#wpadminbar .avatar-64{
+	width:64px;
+	height:64px;
+}
+.smc-login-area label,
+.smc_link,
+.smc_span,
+.smc_icon,#smc_login_area{
+	margin:0;
+	padding:0;
+	border:0;
+	outline:none;
+	float:none;
+}
+.smc_icon{
+	float:none;
+	margin:1px;
+}
+.smc-login-area{
+	line-height:0;
+}
+#login form .smc-login-area{
+	margin-bottom:5px;
+}

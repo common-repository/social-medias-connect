@@ -1,0 +1,71 @@
+.border-radius-5{
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+}
+.overflow-hidden{
+	overflow:hidden;
+}
+input[name=sycnsocialmedia]{
+	vertical-align:top;
+}
+#smc-admin-bind .search-box{
+	position:relative;
+	top:8px;
+}
+#wpadminbar .avatar-64{
+	width:64px;
+	height:64px;
+}
+#icon-socialmedia img{
+	width:32px;
+	height:32px;
+	-webkit-box-shadow:0 3px 3px #888;
+}
+.column-icon{
+	text-align:center;
+}
+.optionbox{
+	margin:20px 0;
+}
+.optionbox:hover .handlediv{
+	background:transparent url(../images/arrows.png) no-repeat 6px 7px;
+}
+.optionbox .hndle{
+	font-size:15px;
+	font-weight:normal;
+	padding:7px 10px;
+	margin:0;
+	line-height:1;
+}
+.optionbox .weibo_item{
+	display:block;
+	width:32px;
+	height:32px;
+	margin:0 10px 10px 0;
+	position:relative;
+	float:left;
+	text-align:center;
+	opacity:.2;
+	filter:alpha(opacity=20);
+	overflow:hidden;
+	border:3px solid transparent;
+	cursor:pointer;
+}
+.optionbox .checked{
+	opacity:1;
+	filter:alpha(opacity=100);
+	border:3px solid #21759B;
+	-webkit-border-radius:8px;
+	-moz-border-radius:8px;
+	border-radius:8px
+}
+#smc-weibo-bind{
+	overflow:hidden;
+}
+.smc-bind-label{
+	display:block;
+	width:120px;
+	float:left;
+	padding:3px 0;
+}
